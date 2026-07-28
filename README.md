@@ -24,10 +24,10 @@ O objetivo principal deste projeto é educacional: aplicar em prática conceitos
 - Testes automatizados
 - Consultas com filtros dinâmicos usando o Query By Example
 - API reativa na web e na camada de banco
-- Uso de DTOs para a API (falta implementar)
-- Injeção de Dependências  (falta implementar)
+- Uso de DTOs para a API 
+- Injeção de Dependências  
 - Geração automática do Swagger com a OpenAPI 3  (falta implementar)
-- Geração de slugs automática com o Slugify  (falta implementar)
+- Geração de slugs automática com o Slugify  
 - Auditoria sobre criação e atualização da entidade
 
 ## Como Executar
